@@ -11,7 +11,7 @@ AtCoder(C++やったことないから勉強中): [ID:yuyu0202](https://atcoder.
 I am not fluent in English.<br>
 I may use a translation service to communicate.<br>
 --Translate by: Google Translate--<br>
-==ステータス/My Stats==
+==ステータス/My Status==
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-yu0202&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yu-yu0202&theme=ayu_mirage)
